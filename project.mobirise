@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Mon videowebpub-clone",
-    "currentPage": "page1.html",
+    "name": "Mon videowebpub",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
