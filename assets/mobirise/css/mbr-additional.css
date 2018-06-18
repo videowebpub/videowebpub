@@ -550,11 +550,11 @@ a:hover {
   font-family: 'Oxygen', sans-serif;
 }
 #menu2-1 .link {
-  font-size: 0.9rem;
+  font-size: 1.15rem;
 }
 #menu2-1 .dropdown-item,
 #menu2-1 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.245rem;
 }
 #menu2-1 .link:hover,
 #menu2-1 .link:focus {
@@ -660,10 +660,6 @@ a:hover {
   font-size: 60px;
   font-family: 'Indie Flower', cursive;
 }
-#video2-7u DIV {
-  font-size: 30px;
-  color: #fffffd;
-}
 #header4-8 .mbr-iconfont {
   color: undefined;
   border-color: undefined;
@@ -739,8 +735,8 @@ a:hover {
 #content5-7 .heading-title B {
   font-size: 48px;
 }
-#buttons1-v .btn {
-  font-size: 15px;
+#buttons1-7y .btn {
+  font-size: 21px;
 }
 #content3-3g .mbr-section-title,
 #content3-3g .mbr-section-subtitle {
@@ -751,6 +747,9 @@ a:hover {
 }
 #content3-3g H1 {
   font-size: 46px;
+}
+#content3-3g B {
+  color: #fffffd;
 }
 #features2-5 .mbr-iconfont {
   color: #1321ed;
@@ -783,9 +782,10 @@ a:hover {
 #header7-35 P {
   font-size: 22px;
   text-align: left;
+  color: #000000;
 }
 #header7-35 H3 {
-  color: #fffffd;
+  color: #000000;
   text-align: center;
 }
 #footer4-2b p {

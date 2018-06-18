@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Mon videowebpub",
+    "name": "Mon videowebpub-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -20,17 +20,17 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#1b9ce9",
         "#53150c",
         "#595344",
         "#16507c",
         "#bee2d9",
         "#a49162",
-        "#005e47",
-        "#7cb6a7"
+        "#005e47"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 286,
+    "uniqCompNum": 287,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -72,10 +72,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -117,7 +117,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#53150c",
-            "fontSize": "0.9",
+            "fontSize": "1.15",
             "imageSize": "4.5",
             "fontName": {
               "name": "Oxygen",
@@ -267,10 +267,10 @@
             "showText": true,
             "showButtons": false,
             "contentAlign": "center",
-            "paddingTop": "6",
-            "paddingBottom": "7",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/personnagegirl-2940655-1920-2-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/color-play-70-result-800x533.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2d2d2d",
@@ -292,44 +292,6 @@
           "_anchor": "content7-7t"
         },
         {
-          "_style": {
-            ".mbr-figure-caption": {
-              "background-color": "#616161"
-            }
-          },
-          "_params": {
-            "showText": true,
-            "paddingTop": "3",
-            "paddingBottom": 4,
-            "bgColor": "#ecf0f1"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/watch?v=RvnsWvswliI",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Des vidéos de marketing à votre image",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_styles": {
-            "DIV": {
-              "font-size": "30px",
-              "color": "#fffffd"
-            }
-          },
-          "_anchor": "video2-7u"
-        },
-        {
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
@@ -348,7 +310,7 @@
             "showText": true,
             "showButtons": false,
             "contentAlign": "center",
-            "showArrow": true,
+            "showArrow": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
             "parallax": false,
@@ -492,7 +454,11 @@
           "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github.",
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/msg-box/mac2.png"
+              "src": "@PROJECT_PATH@/assets/images/404-1-900x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -504,7 +470,6 @@
               "color": "#e6e6e6"
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/watch?v=rlbHVd6scHM&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -580,17 +545,17 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "contentAlign": "center",
             "paddingTop": "2",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/frog-1347642-1926-1920x1276.jpg",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/advert-84407-1920-1920x1080.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "containerColor1": "#19b68f",
             "containerColor2": "#446494",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/-GU2hR2edqo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=-GU2hR2edqo&index=42&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT",
@@ -599,10 +564,10 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.5"
           },
-          "title": "<b><br></b><br><b>Notre boutique \"modèle\" vidéo</b><br><b><br></b>",
-          "text": "Venez voir plus de <b>350 vidéos </b>&nbsp;personnalisables &nbsp;à partir de 45 $ seulement. Intro, action live, conclusion, logo, texte<br><br><br>",
+          "title": "<b><br></b><b><br></b><br><b>Notre boutique \"modèle\" vidéo</b><b><br></b>",
+          "text": "<br><br><br><br>Venez voir plus de <b>350 vidéos </b>&nbsp;personnalisables &nbsp;à partir de 45 $ seulement. Intro, action live, conclusion, logo, texte<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Boutique en ligne</a>",
           "_tags": [
             "Theme"
@@ -613,33 +578,20 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#2e3a3d"
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://videowebpub.com/categorie-produit/intro/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Vidéo \"intro\"</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://videowebpub.com/categorie-produit/outro/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Vidéo \"conclusion\"<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://videowebpub.com/categorie-produit/live-action/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Vidéo\"action live\"<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://videowebpub.com/categorie-produit/social/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Vidéo\"médias sociaux\"<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://videowebpub.com/boutique/\" data-toolbar=\"-mbrBtnMove\">Boutique en ligne ici</a> ",
           "_tags": [
-            "Theme"
+            "Thème"
           ],
           "_name": "buttons1",
+          "_anchor": "buttons1-7y",
           "_styles": {
             ".btn": {
-              "font-size": "15px"
+              "font-size": "21px"
             }
-          },
-          "_anchor": "buttons1-v"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-36"
+          }
         },
         {
           "_styles": {
@@ -651,15 +603,18 @@
             },
             "H1": {
               "font-size": "46px"
+            },
+            "B": {
+              "color": "#fffffd"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#1b9ce9"
           },
-          "title": "D'autres possiblilités pour vous",
+          "title": "<b>D'autres possiblilités pour vous</b>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -816,16 +771,16 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": false,
-            "imageSize": "38",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "imageSize": "64",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/emotionspointing-2649315-1920-2-1920x1281.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#a33725",
-            "containerColor3": "#101007",
+            "bgColorRadio": true,
+            "containerColor1": "#1f8068",
+            "containerColor2": "#bee2d9",
+            "containerColor3": "#005e47",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -849,7 +804,7 @@
           },
           "title": "<br>On en discute?<br><br>",
           "text": "Vous hésitez à vous lancer ? Vous avez un projet en tête et n’avez pas d’idées par ou commencer?<br> Que se soit un petit &nbsp;projet personnel, ou pour votre commerce, nous sommes là pour vous aidez.<br><br><br><br> ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page2.html#content5-6x\" data-toolbar=\"-mbrBtnMove\">Communiquer avec nous</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"page2.html#content5-6x\" data-toolbar=\"-mbrBtnMove\">Communiquer avec nous</a>",
           "_tags": [
             "Theme"
           ],
@@ -861,10 +816,11 @@
             },
             "P": {
               "font-size": "22px",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             },
             "H3": {
-              "color": "#fffffd",
+              "color": "#000000",
               "text-align": "center"
             }
           }
@@ -1626,7 +1582,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#53150c",
-            "fontSize": "0.9",
+            "fontSize": "1.15",
             "imageSize": "4.5",
             "fontName": {
               "name": "Oxygen",
@@ -1888,7 +1844,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#53150c",
-            "fontSize": "0.9",
+            "fontSize": "1.15",
             "imageSize": "4.5",
             "fontName": {
               "name": "Oxygen",
@@ -2194,7 +2150,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#53150c",
-            "fontSize": "0.9",
+            "fontSize": "1.15",
             "imageSize": "4.5",
             "fontName": {
               "name": "Oxygen",
@@ -2706,7 +2662,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#53150c",
-            "fontSize": "0.9",
+            "fontSize": "1.15",
             "imageSize": "4.5",
             "fontName": {
               "name": "Oxygen",
@@ -4086,7 +4042,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#53150c",
-            "fontSize": "0.9",
+            "fontSize": "1.15",
             "imageSize": "4.5",
             "fontName": {
               "name": "Oxygen",
