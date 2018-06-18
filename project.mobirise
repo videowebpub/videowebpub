@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mon videowebpub-clone",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 287,
+    "uniqCompNum": 289,
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2617,10 +2617,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -2747,6 +2747,120 @@
           "_anchor": "content5-6o"
         },
         {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#fff",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "alt": "",
+                "title": "",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-80"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "margin-bottom": "1rem",
@@ -2833,8 +2947,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-2-13-34-51-645694.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=nBIDkKlejDc&t=0s&index=47&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2844,8 +2958,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-2-23-45-36-957755.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=5k-WrBlro0E",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery011.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery011.jpg",
                 "alt": "",
                 "caption": "Animation",
                 "active": false
@@ -2855,8 +2969,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-2-13-53-14-579575.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=3D68GA0DfuQ&feature=youtu.be",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2866,8 +2980,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-6-19-59-55-72794.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=peV_sIP_72M&feature=youtu.be",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2877,8 +2991,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-22-12-18-536656.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=eHI55FOXfsc&index=35&list=UUWKGRzgN9z7ZrobjAUPgq8g",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Intro/Logo",
                 "active": false
@@ -2888,8 +3002,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-50-40-652711.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=VtB6bIw2ZzU&list=UUWKGRzgN9z7ZrobjAUPgq8g",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery032.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery032.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation",
                 "active": false
@@ -2899,8 +3013,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-2-14-0-53-9548.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=O3x-yp5HaAY",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": true
@@ -2908,8 +3022,8 @@
               {
                 "tags": "Animation ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-54-53-310491.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery003.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery003.jpg",
                 "alt": "",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=Y1186IBCT60&index=48&list=UUWKGRzgN9z7ZrobjAUPgq8g",
@@ -2919,8 +3033,8 @@
               {
                 "tags": "Animation et Logo",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-4-21-43-21-971958.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery003.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery003.jpg",
                 "alt": "",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=m8MzIC-isRw",
@@ -2932,8 +3046,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-4-10-56-11-490872.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=ilggj1PHhog",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery011.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery011.jpg",
                 "alt": "",
                 "caption": "Animation Facebook",
                 "active": false
@@ -2943,8 +3057,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-4-0-43-54-352610.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=bI2UR2dPONw",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2954,8 +3068,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-6-20-5-35-745575.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=eaRWw4q8B_4",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2965,8 +3079,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-6-20-1-40-61130.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=sKKiJ5lpjGA&t=0s&list=PLg0JYCN-dTmt869nwyrXFJ2zFck67HQYT&index=3",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2976,8 +3090,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-6-20-8-37-681479.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=qx6tARyLO68",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery011.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery011.jpg",
                 "alt": "",
                 "caption": "Animation Facebook",
                 "active": false
@@ -2987,8 +3101,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-6-20-10-11-574814.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=ViwtDr-tjD4&feature=youtu.be",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -2998,8 +3112,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-1-6-20-24-41-948157.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=rlbHVd6scHM&feature=youtu.be",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Vidéo d'animation&nbsp;",
                 "active": false
@@ -3010,8 +3124,8 @@
             "Theme"
           ],
           "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft4.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright5.png\">",
           "allItem": "Tout",
           "_name": "gallery3",
           "_anchor": "gallery3-6d"
@@ -3071,8 +3185,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-29-2-136372.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=VtB6bIw2ZzU",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery046.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery046.jpg",
                 "alt": "",
                 "caption": "Montage noël",
                 "active": false
@@ -3082,8 +3196,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-31-35-8618.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=vMDw70S3y9Y",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery060.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery060.jpg",
                 "alt": "",
                 "caption": "Montage Noël 2",
                 "active": false
@@ -3093,8 +3207,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-53-24-229373.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uZIZ8YYBra8",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery057.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery057.jpg",
                 "alt": "",
                 "caption": "Pub Courtier",
                 "active": false
@@ -3104,8 +3218,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-5-22-56-38-85463.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=L63uZ7AjNws",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery078.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery078.jpg",
                 "alt": "",
                 "caption": "Maison à vendre",
                 "active": true
@@ -3116,8 +3230,8 @@
             "Theme"
           ],
           "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft4.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright5.png\">",
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-65"
